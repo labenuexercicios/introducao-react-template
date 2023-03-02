@@ -1,4 +1,6 @@
+# As pastas e arquivos listados dentro do .gitignore são IGNORADAS pelo git. Ou seja, não irão para o repositório remoto (GitHub) na hora do push.
 node_modules
+DS_Store
 package-lock.json
 build
 .env
